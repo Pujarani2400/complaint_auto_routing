@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# ML artifacts (regenerate with: python src/train_pipeline.py)
+models/*
+!models/.gitkeep
+evaluation_report.json
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# HuggingFace / Whisper caches (downloaded on first run)
+.cache/

@@ -1,0 +1,27 @@
+# Core ML
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+joblib>=1.3.0
+
+# Embeddings & NLP
+sentence-transformers>=2.7.0
+torch>=2.1.0
+transformers>=4.40.0
+
+# Vector Search
+faiss-cpu>=1.7.4
+
+# Speech-to-Text (Audio/Video)
+faster-whisper>=1.0.0
+
+# Web UI
+gradio>=4.36.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Utilities
+tqdm>=4.66.0
+scipy>=1.11.0
