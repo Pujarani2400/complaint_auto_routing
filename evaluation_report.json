@@ -1,0 +1,15 @@
+{
+  "embedding_model": "paraphrase-multilingual-mpnet-base-v2",
+  "test_samples": 206,
+  "metrics": {
+    "officer_accuracy": 0.9951,
+    "officer_f1_weighted": 0.9951,
+    "officer_f1_macro": 0.995,
+    "priority_accuracy": 0.8883,
+    "priority_f1_weighted": 0.8827,
+    "priority_f1_macro": 0.8333,
+    "eta_mae_days": 0.948,
+    "eta_rmse_days": 1.277,
+    "similarity_recall_at_5": 1.0
+  }
+}

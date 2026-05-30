@@ -14,9 +14,6 @@ env/
 .env
 .env.*
 
-# Generated at runtime (optional to commit)
-evaluation_report.json
-
 # IDE / OS
 .idea/
 .vscode/
