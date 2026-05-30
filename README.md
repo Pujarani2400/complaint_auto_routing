@@ -244,7 +244,6 @@ Why this officer?
 ✅ No AWS  
 ✅ No Google Cloud  
 ✅ All models run on local CPU  
-✅ All data stays on your machine  
 
 ---
 
