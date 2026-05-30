@@ -14,9 +14,7 @@ env/
 .env
 .env.*
 
-# ML artifacts (regenerate with: python src/train_pipeline.py)
-models/*
-!models/.gitkeep
+# Generated at runtime (optional to commit)
 evaluation_report.json
 
 # IDE / OS
